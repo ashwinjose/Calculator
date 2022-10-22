@@ -1,2 +1,2 @@
 # Calculator
-Calculator by using HTML-CSS-JAVA Script
+Calculator by using HTML-CSS-Javascript
